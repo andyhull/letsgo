@@ -12,7 +12,7 @@ This is a Unix-like environment and command-line interface for Microsoft Windows
 
 **Install Python:** download and install [https://www.python.org/downloads/release/python-341/](https://www.python.org/downloads/release/python-341/)  
 
-**Install pip: **
+**Install pip:**
 
 >```python get-pip.py```
 
