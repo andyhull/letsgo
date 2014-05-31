@@ -25,3 +25,9 @@ This is a Unix-like environment and command-line interface for Microsoft Windows
 [http://virtualenv.readthedocs.org/en/latest/virtualenv.html#installation](http://virtualenv.readthedocs.org/en/latest/virtualenv.html#installation)
 
 Are you building a web application in Python? You might try [Flask](http://flask.pocoo.org/) or [Django](https://www.djangoproject.com/)
+
+## Ruby on Rails Setup steps:
+### Windows
+
+**Install it all** [RailsInstaller](http://railsinstaller.org/en)
+>Comes with Ruby, Rails, Bundler, Git, Sqllite, TinyTDS, SQL Server Support, DevKit. AKA **Everything you need to get setup**
