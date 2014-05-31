@@ -26,6 +26,14 @@ This is a Unix-like environment and command-line interface for Microsoft Windows
 
 Are you building a web application in Python? You might try [Flask](http://flask.pocoo.org/) or [Django](https://www.djangoproject.com/)
 
+**Install SQLite3 on Windows**
+<ol>
+<li>Go to <a href="http://www.sqlite.org/download.html">SQLite3 download page</a>, “Precompiled Binaries For Windows” section;</li>
+<li>Download “sqlite-shell” and “sqlite-dll” archive files;</li>
+<li>Unpack them in <code>C:\WINDOWS\system32</code> folder (or any other that is in your PATH);</li>
+<li>Install the <i>sqlite3</i> Ruby gem.</li>
+</ol>
+
 ## Ruby on Rails Setup steps:
 ### Windows
 
