@@ -30,4 +30,5 @@ Are you building a web application in Python? You might try [Flask](http://flask
 ### Windows
 
 **Install it all** [RailsInstaller](http://railsinstaller.org/en)
+
 Comes with Ruby, Rails, Bundler, Git, Sqllite, TinyTDS, SQL Server Support, DevKit. AKA **Everything you need to get setup**
